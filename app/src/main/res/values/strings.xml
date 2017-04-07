@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Light Controller Tasker Plugin</string>
+    <string name="message_hint">Text...</string>
+    <string name="app_install_description">Light Controller must be installer in order to use this plugin, click bellow to install From the Play Store</string>
+    <string name="app_install_button">Install Now</string>
+    <string name="app_update_description">The Installed Version of Light Controller is too old to use the required APIs for the App, Click bellow to update from the Play Store</string>
+    <string name="app_update_button">Update App</string>
+    <string name="app_permission_description">This App Requires Permission to Access the Light Controller API, after requesting permission you should receive a notification to allow API Usage.</string>
+    <string name="app_permission_button">Request Permission</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 104,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/src/main/res/values-mdpi/integers.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 106,
+                        "endOffset": 933
+                    }
+                }
+            }
+        ]
+    }
+]

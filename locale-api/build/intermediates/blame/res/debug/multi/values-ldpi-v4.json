@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 104,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/src/main/res/values-ldpi/integers.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 106,
+                        "endOffset": 838
+                    }
+                }
+            }
+        ]
+    }
+]

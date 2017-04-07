@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/build/intermediates/res/merged/debug/drawable-ldpi-v14/twofortyfouram_locale_ic_menu_dontsave.png",
+        "source": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/src/main/res/drawable-ldpi-v14/twofortyfouram_locale_ic_menu_dontsave.png"
+    },
+    {
+        "merged": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/build/intermediates/res/merged/debug/drawable-ldpi-v14/twofortyfouram_locale_ic_menu_help.png",
+        "source": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/src/main/res/drawable-ldpi-v14/twofortyfouram_locale_ic_menu_help.png"
+    },
+    {
+        "merged": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/build/intermediates/res/merged/debug/drawable-ldpi-v14/twofortyfouram_locale_ic_menu_save.png",
+        "source": "/Users/eliotstocker/Documents/Version Control/LightControllerTaskerPlugin/locale-api/src/main/res/drawable-ldpi-v14/twofortyfouram_locale_ic_menu_save.png"
+    }
+]
